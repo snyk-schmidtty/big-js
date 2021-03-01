@@ -9,5 +9,5 @@ yarn install
 then
 
 ```
-semgrep --config ... .
+semgrep --config ... $(find . -name '*.js')
 ```
