@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "angular": "^1.8.2",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.6",
+    "glslx": "^0.2.13",
+    "jszip": "^3.6.0",
+    "pako": "^2.0.3",
+    "ttf2woff": "^2.0.2",
+    "zip": "^1.2.0"
+  }
+}
