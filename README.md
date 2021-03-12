@@ -1,6 +1,7 @@
 Big js files for Semgrep testing
+==
 
-To use, run:
+To refresh, run:
 
 ```
 yarn install
